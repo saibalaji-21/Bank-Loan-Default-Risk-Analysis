@@ -4,9 +4,7 @@
 This project performs Exploratory Data Analysis (EDA) on banking data to understand patterns related to loan default. The goal is to help financial institutions identify high-risk customers and make informed lending decisions.
 
 ## 📁 Dataset
-- `application_data.csv`: Applicant details at the time of loan request.
-- `previous_application.csv`: History of previous loan applications.
-- `columns_description.csv`: Descriptions of dataset columns.
+- Clone and see it in the code itself 
 
 ## 🎯 Objective
 Identify key factors that influence loan default, helping banks:
